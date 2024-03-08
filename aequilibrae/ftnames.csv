@@ -1,0 +1,34 @@
+1,Centroid Connector
+2,Principal Arterial
+3,Minor Arterial
+4,Major Collector
+5,Minor Collector
+6,Local
+7,Unpaved
+12,"Expressway, posted 60-70 mph"
+13,"Expressway, posted 55-65 mph"
+14,"Expressway, posted 50-60 mph"
+15,"Expressway, posted 45-55 mph"
+20,MM: fwy-to-fwy loop ramp
+21,"MM: C-D road, flyover ramp"
+22,MM: posted 55-60 mph
+23,"MM: posted 65 mph, no aux lane"
+24,"MM: posted 65 mph, aux lane"
+25,"MM: posted 75 mph, no aux lane"
+26,"MM: posted 75 mph, aux lane"
+27,place holder
+28,MM: On-ramp
+29,MM: Off-ramp
+30,Fwy: fwy-to-fwy loop ramp
+31,"Fwy: C-D road, flyover ramp"
+32,Fwy: posted 55-60 mph
+33,"Fwy: posted 65 mph, no aux lane"
+34,"Fwy: posted 65 mph, aux lane"
+35,"Fwy: posted 75 mph, no aux lane"
+36,"Fwy: posted 75 mph, aux lane"
+37,Fwy: HOV lane
+38,Fwy: Managed lane
+39,Fwy: Managed lane access
+40,Fwy: Tollway
+41,Fwy: On-ramp
+42,Fwy: Off-ramp
